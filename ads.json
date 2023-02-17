@@ -1,0 +1,19 @@
+{
+  "AdsManager": {
+    "AdNetwork": "admob",
+    "AdmobBanner": "ca-app-pub-2120403233975259/6232390337",
+    "AdmobInterstitial": "ca-app-pub-2120403233975259/2373036378",
+    "AdmobNative": "ca-app-pub-2120403233975259/8746873036",
+    "ApplovinBanner": "",
+    "ApplovinInterstitial": "",
+    "ApplovinNative": "",
+    "UnityGameID": "5169149",
+    "UnityBanner": "Banner_Android",
+    "UnityInterstitial": "Interstitial_Android",
+    "VungleAppID": "63ef7924c14de8532c54ae84",
+    "VungleBanner": "BANNER-3730631",
+    "VungleInterstitial": "INTER-5677566",
+    "VungleMREC": "MREC-5261114",
+    "RatingActive": true
+  }
+}
